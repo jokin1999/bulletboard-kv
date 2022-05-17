@@ -1,4 +1,4 @@
-var URL = "https://bb.josark.com"
+var URL = "https://b-api.josark.com"
 
 function getkey() {
     let key = document.getElementById("setkey").value;
